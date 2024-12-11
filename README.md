@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a passionate developer with experience in mul
 
 ## 📌 Current Projects
 
-- **Portfolio(https://github.com/SatmeetSingh/my-portfolio)**: My Portfolio in ReactJs.
+- **[Portfolio](https://github.com/SatmeetSingh/my-portfolio)**: My Portfolio in ReactJs.
 <-- 
 - **[Note-Taking Application](GitHub Repo Link)**: A simple app to take and manage notes using **React.js** and **Node.js**.
 -->
