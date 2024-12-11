@@ -35,4 +35,5 @@ Welcome to my GitHub profile! I am a passionate developer with experience in mul
 
 Feel free to reach out to me if you'd like to collaborate or just want to chat about technology. You can connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/satmeet-singh-a025a516a/)
+- **[LinkedIn](https://www.linkedin.com/in/satmeet-singh-a025a516a/)**
+
