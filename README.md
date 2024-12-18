@@ -44,6 +44,6 @@ Feel free to reach out to me if you'd like to collaborate or just want to chat a
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatmeetSingh&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/SatmeetSingh/github-readme-stats">
+[<a href="https://github.com/SatmeetSingh/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SatmeetSingh&repo=my-portfolio" />
-</a>
+</a>](https://github.com/SatmeetSingh/my-portfolio)
