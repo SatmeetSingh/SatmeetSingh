@@ -37,8 +37,4 @@ Feel free to reach out to me if you'd like to collaborate or just want to chat a
 
 - **[LinkedIn](https://www.linkedin.com/in/satmeet-singh-a025a516a/)**
 
-<p align="center">
-	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=maruffahmed&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&bg_color=00000000">
-	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=maruffahmed&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
-	<img src ="https://github-readme-streak-stats.herokuapp.com?user=maruffahmed&theme=darcula&hide_border=true&background=FFFFFF00">
-</p>
+
