@@ -37,4 +37,13 @@ Feel free to reach out to me if you'd like to collaborate or just want to chat a
 
 - **[LinkedIn](https://www.linkedin.com/in/satmeet-singh-a025a516a/)**
 
+<a href="https://github.com/SatmeetSinghSingh/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SatmeetSingh" />
+</a>
+<a href="https://github.com/SatmeetSingh/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatmeetSingh&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+<a href="https://github.com/SatmeetSingh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SatmeetSingh&repo=my-portfolio" />
+</a>
