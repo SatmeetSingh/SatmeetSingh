@@ -38,10 +38,10 @@ Feel free to reach out to me if you'd like to collaborate or just want to chat a
 - **[LinkedIn](https://www.linkedin.com/in/satmeet-singh-a025a516a/)**
 
 <a href="https://github.com/SatmeetSinghSingh/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SatmeetSingh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=180,FFB6C1,FF7F50,FFD700,FFFFE0" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SatmeetSingh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=180,FFB6C1,FF7F50,FFD700,FFFFE0&cachebust=<?=time()?>" />
 </a>
 <a href="https://github.com/SatmeetSingh/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatmeetSingh&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatmeetSingh&layout=compact&langs_count=8&card_width=320&cachebust=<?=time()?>" />
 </a>
 
 <a href="https://github.com/SatmeetSingh/my-portfolio">
