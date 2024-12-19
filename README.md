@@ -47,3 +47,6 @@ Feel free to reach out to me if you'd like to collaborate or just want to chat a
 <a href="https://github.com/SatmeetSingh/my-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SatmeetSingh&repo=my-portfolio" />
 </a>
+
+If you find this project helpful, you can support it by making a donation:
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/ncp/payment/HKG73CGX6E5LC)
