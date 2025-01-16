@@ -12,13 +12,13 @@ Welcome to my GitHub profile! I am a passionate developer with experience in mul
 
 ## 🚀 My Skills
 
-- **Languages**: C#, JavaScript, SQL, HTML, CSS , MongoDb 
-- **Frameworks**: .NET 6+, React.js, Node.js, Nest.js
+- **Languages**: C#, JavaScript,SQL, HTML, CSS  
+- **Frameworks/libraries**: .NET 6+, React.js, Node.js, Nest.js,Tailwind , redux-toolkit 
 - **Databases**: SQL Server, MongoDB, Postgres
 - **Tools**: Visual Studio, Git, Docker, Postman, Jira
-- **Others**: RESTful API, JWT
+- **Others**: RESTful API, JWT 
 
-## 📌 Current Projects
+## 📌 Current Projec
 
 - **[Portfolio](https://github.com/SatmeetSingh/my-portfolio)**: My Portfolio in ReactJs.
 <!-- 
