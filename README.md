@@ -51,15 +51,13 @@ Feel free to reach out to me if you'd like to collaborate or just want to chat a
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=SatmeetSingh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=180,FFB6C1,FF7F50,FFD700,FFFFE0" />
 </a>
 <a href="https://github.com/SatmeetSingh/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatmeetSingh&layout=compact&langs_count=8&card_width=320" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatmeetSingh&layout=compact&langs_count=8&card_width=260" />
 </a>
-
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SatmeetSingh&theme=white&hide_border=false&cachebust=1" />
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=SatmeetSingh&theme=white&hide_border=false&cachebust=1)
 
-<br/>
-
+<br />
 <a href="https://github.com/SatmeetSingh/my-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SatmeetSingh&repo=my-portfolio" />
 </a>
