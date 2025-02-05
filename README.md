@@ -63,5 +63,6 @@ Feel free to reach out to me if you'd like to collaborate or just want to chat a
 </a>
 
 
-If you find this project helpful, you can support it by making a donation:
+If you find me or my repos helpful, you can support it by making a donation:
+
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/ncp/payment/HKG73CGX6E5LC)
