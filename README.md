@@ -47,22 +47,25 @@ Feel free to reach out to me if you'd like to collaborate or just want to chat a
 
 - **[LinkedIn](https://www.linkedin.com/in/satmeet-singh-a025a516a/)**
 
-<a href="https://github.com/SatmeetSingh/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=SatmeetSingh&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=180,FFB6C1,FF7F50,FFD700,FFFFE0" />
-</a>
-<a href="https://github.com/SatmeetSingh/convoychat">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatmeetSingh&layout=compact&langs_count=8&card_width=260" />
-</a>
+ ## If you find me or my repos helpful, you can support it by making a donation:
+[![Buy me coffie](https://img.shields.io/badge/Buy%20me%20coffie-5C2D91.svg?style=for-the-badge&logo=Buy%20me%20coffie&logoColor=white)](https://www.paypal.com/ncp/payment/HKG73CGX6E5LC)
+
+<div align="center">
+<a href="https://github.com/SatmeetSingh">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SatmeetSingh&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height='180em'/>
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatmeetSingh&theme=2077" height="180em" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatmeetSingh&theme=2077" height="180em" />
+</p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatmeetSingh&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatmeetSingh&theme=2077" height="180em" />
+</div>
+
 <br/>
 
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=SatmeetSingh&theme=white&hide_border=false&cachebust=1)
+<!-- ![GitHub Streak Stats](https://streak-stats.demolab.com?user=SatmeetSingh&theme=white&border=false&cachebust=1)   -->
 
-<br />
 <a href="https://github.com/SatmeetSingh/my-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SatmeetSingh&repo=my-portfolio" />
 </a>
-
-
-If you find me or my repos helpful, you can support it by making a donation:
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/ncp/payment/HKG73CGX6E5LC)
+<br />
