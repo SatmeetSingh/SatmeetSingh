@@ -53,9 +53,9 @@ Feel free to reach out to me if you'd like to collaborate or just want to chat a
 <div align="center">
 <a href="https://github.com/SatmeetSingh">
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SatmeetSingh&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height='180em'/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SatmeetSingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height='180em'/>
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatmeetSingh&theme=2077" height="180em" />
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatmeetSingh&theme=2077" height="180em" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=SatmeetSingh&theme=dark&hide_border=false&theme=2077" height="180em" />
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatmeetSingh&theme=2077" height="180em" />
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatmeetSingh&theme=2077" height="180em" />
 </p>
